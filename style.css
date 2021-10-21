@@ -23,14 +23,18 @@ body{
 .header a{
    width: 300px;
     border: 1px solid orangered;
-    background-image: linear-gradient(to right,orangered ,gray);    
-    font-size: 20px;
+    background-image: linear-gradient(to right,rgb(219, 65, 9),yellow );    
+    font-size: 25px;
     text-decoration: none;
     padding: 20px 50px;
     margin: 10px;
     color: antiquewhite;
     border-radius: 30px;
     
+}
+.header a:hover{
+    
+    color:black;
 }
 .abt{
     background-image: url(image/shapes/7.png) ;
@@ -41,7 +45,7 @@ body{
 }
 .about .pic{
 width: 300px;
-height: 400px;
+height: 350px;
 display: flex;
 padding: 30px;
 }
@@ -63,11 +67,14 @@ padding: 30px;
     border: 1px solid;
     text-decoration: none;
     font-size: 20px;
-    border-radius: 20px;
-    padding: 10px;
+    border-radius: 25px;
+    padding: 15px 30px;
    background-image:linear-gradient( );
    background-color:rgb(240, 97, 45);
    color:white;
+}
+.text a:hover{
+    color:aqua;
 }
 .sec3{
     text-align: center;
