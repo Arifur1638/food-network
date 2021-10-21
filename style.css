@@ -1,0 +1,37 @@
+body{
+    margin: 50px;
+}
+.header{
+    display: flex;
+    margin-top: 41px;
+}
+.header h1{
+    font-size: 70px;
+    margin-top: 120px;
+    color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header span{
+    color: orangered;
+}
+.header p{
+    font-size: 20px;
+    font-weight: 100;
+  color: gray;
+}
+.header a{
+   width: 300px;
+    border: 1px solid orangered;
+    background-image: linear-gradient(to right,orangered ,gray);    
+    font-size: 20px;
+    text-decoration: none;
+    padding: 20px 50px;
+    margin: 10px;
+    color: antiquewhite;
+    border-radius: 25px;
+    
+}
+.abt{
+    display: flex;
+    background-image: url(image/shapes/7.png);
+}
