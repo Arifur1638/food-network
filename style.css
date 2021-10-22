@@ -97,30 +97,34 @@ padding: 30px;
 }
 .box1{
     border: 20px solid #fff;
-    box-shadow: 5px 5px 5px 5px rgb(109, 104, 104);
+    box-shadow:  rgb(109, 104, 104) 0px 5px 29px 5px;
     border-radius: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin-left: 60px;
+    margin-left: 40px;
+    height: 400px;
 }
 .box2{
     border: 20px solid #fff;
-    box-shadow: 5px 5px 5px 5px rgb(109, 104, 104);
+    box-shadow: rgb(109, 104, 104) 0px 5px 29px 5px;
     border-radius: 30px;
     margin-left:90px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    
 }
 .box3{
+
     border: 20px solid #fff;
-    box-shadow: 5px 5px 5px 5px rgb(109, 104, 104);
+    box-shadow: rgb(109, 104, 104) 0px 5px 29px 5px;
     border-radius: 30px;
-    margin-left: 90px;
+    margin-left: 110px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+   
 }
 .follow{
     display: flex;
     border: 5px solid #fff;
     margin: 70px;
-    box-shadow: 5px 5px 5px 5px rgb(109, 104, 104);
+    box-shadow: rgb(109, 104, 104) 0px 5px 29px 5px;
     border-radius: 20px;
 }
 .fst{
@@ -157,7 +161,7 @@ padding: 30px;
     color:gray;
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
+    padding: 10px;
 }
 .final span{
     color: orange;
